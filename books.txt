@@ -1,0 +1,8 @@
+Ali,Emre Can,1999,120,available,17/02/2024
+Veli,Emre Can,1999,120,available,16/02/2024
+Kerim,Emre Can,1999,120,available,17/02/2024
+Emre,Emre Can,1999,120,available,17/02/2024
+Haluk,Emre Can,1999,120,unavailable, 17/02/2024
+a,a,2,3,available,18/02/2024
+b,a,2,3,available,18/02/2024 01:27:58
+c,a,1,2,available,18/02/2024 01:50:38
